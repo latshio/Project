@@ -1,0 +1,8 @@
+{
+  "TCP": {
+    "80": "http://localhost:80"
+  },
+  "AllowFunnel": {
+    "80": "public"
+  }
+}
